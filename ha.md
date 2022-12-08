@@ -15,7 +15,7 @@
 
 ## Alarm Anlage 
 
-- [YT - Smart Home Junkie | Professional ALARM SYSTEM in Home Assistant! How to set it ...](https://www.youtube.com/watch?v=t5r73WnufeA&t=140s)
+- [YT - Smart Home Junkie / Professional ALARM SYSTEM in Home Assistant! How to set it ...](https://www.youtube.com/watch?v=t5r73WnufeA&t=140s)
 
 ## Tuya
 
@@ -27,17 +27,17 @@
 
 
 ## Node-RED
-- [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) | [Home Assistant mit Node-RED die Grundlagen](https://www.youtube.com/watch?v=MrA7mabL8eQ)
+- [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) / [Home Assistant mit Node-RED die Grundlagen](https://www.youtube.com/watch?v=MrA7mabL8eQ)
 - [YT - The Hook Up](https://www.youtube.com/@TheHookUp)
   - [Node Red + Home Assistant 2022: Beginner, Advanced and EXPERT Motion Detection and Notifications](https://www.youtube.com/watch?v=wBUAUdLkYJM)
   - [Node Red for Beginners - 2021 Edition (Using Home Assistant)](https://www.youtube.com/watch?v=hBEb_FCLRU8)
 
 ## Verschiedenes
 
-- [YT - MagisterF](https://www.youtube.com/@MagisterF) | [Anwesenheitserkennung in Home Assistant | v2022.10](https://www.youtube.com/watch?v=NoJIBqlkbNI)
+- [YT - MagisterF](https://www.youtube.com/@MagisterF) / [Anwesenheitserkennung in Home Assistant / v2022.10](https://www.youtube.com/watch?v=NoJIBqlkbNI)
 
-- [YT - SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) | [Tuya Geräte Cloud-Frei in Home Assistant einbinden mit Local Tuya](https://www.youtube.com/watch?v=Me1uEGq9QlI)
+- [YT - SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) / [Tuya Geräte Cloud-Frei in Home Assistant einbinden mit Local Tuya](https://www.youtube.com/watch?v=Me1uEGq9QlI)
 
-- [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) | [Home Assistant Synology NAS als Card (deutsch)](https://www.youtube.com/watch?v=4Adsef_5ECY)
+- [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) / [Home Assistant Synology NAS als Card (deutsch)](https://www.youtube.com/watch?v=4Adsef_5ECY)
 
-https://nerdig.es/udm-pro-management-vlan/
+- https://nerdig.es/udm-pro-management-vlan/

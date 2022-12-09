@@ -9,10 +9,13 @@ nav_order: 2
 ## Headless Installation auf Ubuntu Server
 
 - [Install Home Assistant OS with KVM on Ubuntu headless (CLI only)](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941)
-- [USB z-wave](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/21)
 - [YT - Installing KVM for virtual machines on Ubuntu Server](https://www.youtube.com/watch?v=KCLaVlwfOHM)
 - [YT - QEMU/KVM for absolute beginners](https://www.youtube.com/watch?v=BgZHbCDFODk)
 
+## Z-Wave Integration
+- [HA Community - Zwave & Home Assistant Overview](https://community.home-assistant.io/t/zwave-home-assistant-overview/277253)
+- [USB z-wave](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/21)
+ 
 ## Smart Meter mit vzlogger als Sensor
 
 - [0.78.3 Volkszaehler Installation](https://community.home-assistant.io/t/0-78-3-volkszaehler/70343/10)

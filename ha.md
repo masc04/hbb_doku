@@ -1,3 +1,9 @@
+---
+title: Home Assistant
+has_children: false
+nav_order: 2
+---
+
 # Home Assistant
 
 ## Headless Installation auf Ubuntu Server

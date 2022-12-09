@@ -28,7 +28,7 @@ nav_order: 2
 - [HA Tuya Integration](https://www.home-assistant.io/integrations/tuya/)
 
 ## Ozmo
-
+- [HA Community - Ecovacs Deebot](https://community.home-assistant.io/t/ecovacs-deebot-900/275637/7)
 - [GitHub - Ligio/hacc-ozmo](https://github.com/Ligio/hacc-ozmo)
 
 

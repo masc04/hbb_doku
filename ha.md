@@ -46,4 +46,4 @@ nav_order: 2
 
 - [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) / [Home Assistant Synology NAS als Card (deutsch)](https://www.youtube.com/watch?v=4Adsef_5ECY)
 
-- https://nerdig.es/udm-pro-management-vlan/
+- [nedig.es (HA und Unifi Themen)](https://nerdig.es/udm-pro-management-vlan/)

@@ -15,6 +15,7 @@ nav_order: 2
 ## Z-Wave Integration
 - [HA Community - Zwave & Home Assistant Overview](https://community.home-assistant.io/t/zwave-home-assistant-overview/277253)
 - [USB z-wave](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/21)
+- [](http://manuals-backend.z-wave.info/make.php?lang=de&sku=MT02648&cert=ZC10-14090007)
  
 ## Smart Meter mit vzlogger als Sensor
 

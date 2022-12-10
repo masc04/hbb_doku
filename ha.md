@@ -52,3 +52,6 @@ nav_order: 2
 - [YT - Tobias Karge](https://www.youtube.com/@tobiaskarge) / [Home Assistant Synology NAS als Card (deutsch)](https://www.youtube.com/watch?v=4Adsef_5ECY)
 
 - [nedig.es (HA und Unifi Themen)](https://nerdig.es/udm-pro-management-vlan/)
+
+## Volkszaehler
+- [Diskussion - Performance, Datenbereinigung, Gesamtzähler als virtueller Channel](https://volkszaehler-users.demo.volkszaehler.narkive.com/A9Dz6dUu/vz-users-performance-datenbereinigung-gesamtzahler-als-virtueller-channel)

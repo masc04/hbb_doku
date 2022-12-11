@@ -35,6 +35,7 @@ nav_order: 2
 ## Ozmo
 - [HA Community - Ecovacs Deebot](https://community.home-assistant.io/t/ecovacs-deebot-900/275637/7)
 - [GitHub - Ligio/hacc-ozmo](https://github.com/Ligio/hacc-ozmo)
+- ![hacc-ozmo message after installation](/assets/images/msg_after_installation_ecovacs_deebot.png)
 
 
 ## Node-RED

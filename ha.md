@@ -55,6 +55,11 @@ nav_order: 2
 
 - [nedig.es (HA und Unifi Themen)](https://nerdig.es/udm-pro-management-vlan/)
 - [YT - Mark Watt Tech](https://www.youtube.com/@MarkWattTech) / [5 More Frontend HACS (Cards)](https://www.youtube.com/watch?v=_QqiqXw8K_Y)
+  - Vacuum Card
+  - fold-entity-row
+  - Slider button card
+  - Digital Clock
+  - RGB Light Card
 
 ## Volkszaehler
 - [Diskussion - Performance, Datenbereinigung, Gesamtzähler als virtueller Channel](https://volkszaehler-users.demo.volkszaehler.narkive.com/A9Dz6dUu/vz-users-performance-datenbereinigung-gesamtzahler-als-virtueller-channel)

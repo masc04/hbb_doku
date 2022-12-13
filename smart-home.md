@@ -1,7 +1,7 @@
 ---
 title: Smart-Home
 has_children: false
-nav_order: 4
+nav_order: 104
 ---
 
 ## Smart-Home

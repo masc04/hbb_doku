@@ -15,6 +15,8 @@ nav_order: 2
 ## Z-Wave Integration
 - [HA Community - Zwave & Home Assistant Overview](https://community.home-assistant.io/t/zwave-home-assistant-overview/277253)
 - [USB z-wave](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/21)
+  - ![USB_Dongle_Zwave_Aeotec](/assets/images/USB_Dongle_Zwave_Aeotec.png)
+  - ![USB_Dongle_Zigbee_Sonoff](/assets/images/USB_Dongle_Zigbee_Sonoff.png)
 - [devolo - Door/Window Contact - SKU: MT02648](http://manuals-backend.z-wave.info/make.php?lang=de&sku=MT02648&cert=ZC10-14090007)
 - [HA Community - Zwave JS Devolo Tür-/Fenstersensor / Zustand wird nicht erkannt](https://community.home-assistant.io/t/zwave-js-devolo-door-windows-sensor/434468)
  

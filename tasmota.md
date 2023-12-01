@@ -5,7 +5,7 @@ parent: Smart-Home
 nav_order: 1
 ---
 
-## Home Assistant
+## Tasmota
 
 ### Steckdose kalibrieren
 
@@ -27,3 +27,7 @@ Sie kann auch berechnet werden. Dazu `Leistung (W) = Spannung (V) * Strom (A)`, 
 
 ```PowerSet [power]```
 
+
+### Links
+
+- [GitHub - Tasmota](https://tasmota.github.io/docs/Commands/)

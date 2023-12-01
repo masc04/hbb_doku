@@ -1,7 +1,8 @@
 ---
 title: HPSU Compact
 has_children: False
-nav_order: 3
+parent: Heizung
+nav_order: 2
 ---
 
 ## HPSU Compact

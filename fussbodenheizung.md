@@ -1,7 +1,8 @@
 ---
 title: Heizungssystem
 has_children: false
-nav_order: 102
+parent: Heizung
+nav_order: 1
 ---
 
 ## Fußbodenheizung

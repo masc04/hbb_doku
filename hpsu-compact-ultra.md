@@ -1,7 +1,8 @@
 ---
 title: HPSU Compact Ultra
 has_children: False
-nav_order: 103
+parent: Heizung
+nav_order: 3
 ---
 
 ## HPSU Compact Ultra / Altherma 3 R ECH2O
